@@ -6,8 +6,8 @@
  contains languages like: Java, Python, Javascript, C++, HTML, CSS and i have taken courses on
  OOP (Object Orientated Programming), Web Development, Minecraft Plugins, Linux(mostly bash) and a lot more.
 
- I strive to learn new skills every single day and take a huge amount of my free time to work on
- projects and learning new languages, libraries or skills.
+ I strive to learn new skills every single day and work on
+ projects and learning new languages, libraries or skills almost daily.
 
  If you are interested in working on something with me or want to contact me for any other reason
  You can reach me through my discord: Sjoegd#3907 or email me at: sjoerdvdis@gmail.com
