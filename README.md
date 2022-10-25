@@ -4,7 +4,7 @@
  I'm currently studying Computer Science and learning web development asides.
  I know a lot of languages and am experienced in the field of programming, my knowledge currently
  contains languages like: Java, Python, Javascript, C++, HTML, CSS, Haskell and topics like: 
- Game development, Data science, NodeJS, ExpressJS, Spigot, API's, Databases, Server hosting and a lot more!
+ Game development, Data science, NodeJS, ExpressJS, React, Spigot, API's, Databases, Server hosting and a lot more!
 
  I strive to learn new skills every single day and work on
  projects and learning new languages, libraries or skills almost daily.
