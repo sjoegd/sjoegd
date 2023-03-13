@@ -1,13 +1,11 @@
 ### Hi there I'm Sjoegd👋
-#### I'm interested in development and working on something related to it daily.
+#### I'm interested in IT development and working on something related to it daily.
 
- I'm currently studying Computer Science and learning web development asides.
- I know a lot of languages and am experienced in the field of programming, my knowledge currently
- contains languages like: Java, Python, Javascript, C++, HTML, CSS, Haskell and topics like: 
- Game development, Data science, NodeJS, ExpressJS, React, Spigot, API's, Databases, Server hosting and a lot more!
+I'm currently studying Computer Science and learning related topics asides.
+So far, the languages i've accumulated knowledge about Java, Python, C, C++, Javascript, HTML/CSS, Haskell.
+I also have a lot of experience with topics like Game Development, Data Science, AI (RL, NEAT etc.), MERN stack (MongoDB, ExpressJS, React, NodeJS), Minecraft Plugin Development (PaperMC and Waterfall) and a lot more.
 
- I strive to learn new skills every single day and work on
- projects and learning new languages, libraries or skills almost daily.
+I strive to learn new skills every single day and work on
+projects and learning new languages, libraries or skills almost daily.
 
- If you are interested in working on something with me or want to contact me for any other reason
- You can reach me through my discord: Sjoegd#3907 or email me at: sjoerdvdis@gmail.com
+If you want to contact me, you can reach me through my discord: Sjoegd#3907 or email me at: sjoerdvdis@gmail.com
