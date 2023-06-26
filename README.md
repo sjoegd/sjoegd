@@ -4,3 +4,4 @@
 Current projects:
 - Spaceshooter.io, multiplayer 2d spaceshooter web game, made with ts.
 - Gunfire Gauntlet, local multiplayer 2d shooter arena, made with python.
+- Snake game, snake game made with css grid and javascript (old)
