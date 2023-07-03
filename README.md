@@ -1,5 +1,5 @@
 ### Hi there I'm Sjoegd👋
-#### I'm interested in IT development and working on something related to it daily.
+#### I'm interested in IT development and working on something related daily.
 
 Current projects:
 - Soccer Game, 2d simple soccer game, made with python
