@@ -2,9 +2,8 @@
 #### I'm interested in IT development and working on something related daily.
 
 Current Projects:
-- Soccer Game, 2d soccer game + reinforcement learning, made with python.
-- Tank Game, 2d tank arena + reinforcement learning, made with python.
-
+- RLGameBox, a collection of reinforcement learning games
+  
 Projects on hold:
 - Gunfire Gauntlet, 2d shooter arena, made with python.
 
