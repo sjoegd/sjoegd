@@ -2,6 +2,7 @@
 #### I'm interested in IT development and working on something related daily.
 
 Current Projects:
+- Sjors Bot, a personal discord bot 
 - RLGameBox, a collection of reinforcement learning games
   
 Projects on hold:
